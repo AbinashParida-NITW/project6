@@ -1,4 +1,4 @@
-# Schema Mapper & Data Quality Fixer (Project 6)
+# Schema Mapper & Data Quality Fixer (Project 6) By Abinash
 
 A **Streamlit-based application** for automatically mapping CSV headers to a **canonical schema**, validating and cleaning data, and suggesting targeted fixes for invalid entries.  
 The tool integrates with **Hugging Face LLMs** (via LangChain) for intelligent header mapping when string similarity is not enough.
@@ -109,5 +109,6 @@ Review suggested header mappings (edit if needed).
 Run Clean & Validate to apply normalizations.
 
 Inspect targeted fix suggestions (apply row, column, or dismiss).
+
 
 Download the cleaned CSV.
