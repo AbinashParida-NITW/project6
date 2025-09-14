@@ -1,3 +1,5 @@
+Explanation video link - [https://drive.google.com/drive/folders/1UhlmU-5JmxmuYtkfe4GbnzNf8erpU_6G?usp=drive_link]
+
 # 🎯 Schema Mapper & Data Quality Fixer
 
 A comprehensive web application built with Streamlit that automatically maps CSV columns to a canonical schema, detects data quality issues, and provides intelligent fixes with undo functionality.
